@@ -7,11 +7,15 @@
    <a href="https://mrchypark.github.io/">
     <img src="https://badgen.net/badge/icon/Mrchypark Developer?icon=https://caple-static.s3.ap-northeast-2.amazonaws.com/cobalt-badge.svg&label&color=5B69C3&labelColor=414C9A" />
   </a>
- <a href="https://mrchypark.github.io/donateme/">
+  <a href="https://mrchypark.github.io/donateme/">
     <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
- </a>
- [![:name status badge](https://mrchypark.r-universe.dev/badges/:name)](https://mrchypark.r-universe.dev/)
- [![:total status badge](https://mrchypark.r-universe.dev/badges/:total)](https://mrchypark.r-universe.dev/)
+  </a>
+  <a href="https://mrchypark.r-universe.dev/">
+   <img src="https://mrchypark.r-universe.dev/badges/:name" />
+  </a>
+  <a href="https://mrchypark.r-universe.dev/">
+  <img src="https://mrchypark.r-universe.dev/badges/:total" />
+  </a>
   
  [![Mrchypark's github stats](https://github-readme-stats.vercel.app/api?username=mrchypark)](https://github.com/anuraghazra/github-readme-stats)
  
