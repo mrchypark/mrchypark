@@ -10,6 +10,8 @@
  <a href="https://mrchypark.github.io/donateme/">
     <img src="https://badgen.net/badge/icon/Buy a coffee?icon=kofi&label&color=29ABE0&labelColor=29ABE0" />
  </a>
+ [![:name status badge](https://mrchypark.r-universe.dev/badges/:name)](https://mrchypark.r-universe.dev/)
+ [![:total status badge](https://mrchypark.r-universe.dev/badges/:total)](https://mrchypark.r-universe.dev/)
   
  [![Mrchypark's github stats](https://github-readme-stats.vercel.app/api?username=mrchypark)](https://github.com/anuraghazra/github-readme-stats)
  
